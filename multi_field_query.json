@@ -1,0 +1,16 @@
+{
+	"fields": "status,category,classification,notes,entity_submitter_id", 
+	"filters": {
+		"op": "and",
+		"content": [{
+			"op" : "=",
+			"content" : {"field": "case_submitter_id", "value": ["TCGA-02-0285"]}
+			},
+			{
+			"op" : "=",
+			"content" : {"field" : "status", "value" : ["Approved"]}
+			}
+		]
+	
+	}
+} 

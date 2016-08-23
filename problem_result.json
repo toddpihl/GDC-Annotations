@@ -1,0 +1,56 @@
+{
+  "data": {
+    "hits": [
+      {
+        "category": "Item is noncanonical", 
+        "status": "Approved", 
+        "notes": "No Matching Normal", 
+        "entity_submitter_id": "TCGA-02-0285-01A-01D", 
+        "classification": "Notification"
+      }, 
+      {
+        "category": "Item is noncanonical", 
+        "status": "Approved", 
+        "notes": "No Matching Normal", 
+        "classification": "Notification"
+      }, 
+      {
+        "category": "Item is noncanonical", 
+        "status": "Approved", 
+        "notes": "No Matching Normal", 
+        "entity_submitter_id": "TCGA-02-0285-01A-01R", 
+        "classification": "Notification"
+      }, 
+      {
+        "category": "Item is noncanonical", 
+        "status": "Approved", 
+        "notes": "No Matching Normal", 
+        "entity_submitter_id": "TCGA-02-0285-01A-01T", 
+        "classification": "Notification"
+      }, 
+      {
+        "category": "Item is noncanonical", 
+        "status": "Approved", 
+        "notes": "No Matching Normal", 
+        "entity_submitter_id": "TCGA-02-0285-01A", 
+        "classification": "Notification"
+      }, 
+      {
+        "category": "Item is noncanonical", 
+        "status": "Approved", 
+        "notes": "No Matching Normal", 
+        "classification": "Notification"
+      }
+    ], 
+    "pagination": {
+      "count": 6, 
+      "sort": "", 
+      "from": 1, 
+      "page": 1, 
+      "total": 6, 
+      "pages": 1, 
+      "size": 10
+    }
+  }, 
+  "warnings": {}
+}

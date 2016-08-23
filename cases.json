@@ -1,0 +1,80 @@
+{
+  "data": {
+    "hits": [
+      {
+        "sample_ids": [
+          "063df389-e6a2-4d87-8f11-833de43836f5", 
+          "4c49cc14-5813-4a6a-bb8e-4cddef2d5055"
+        ], 
+        "portion_ids": [
+          "beb2cce6-c0ad-48b7-9f83-64d9471b0cfa", 
+          "51edc83c-3ee2-4cd8-b37f-be28489e2bf4", 
+          "e470c35a-7e13-42a7-9225-78a56d6b1d94"
+        ], 
+        "updated_datetime": "2016-05-02T15:55:04.642987-05:00", 
+        "created_datetime": null, 
+        "submitter_aliquot_ids": [
+          "TCGA-KC-A7FE-01A-12D-A33S-01", 
+          "TCGA-KC-A7FE-10A-01D-A33V-01", 
+          "TCGA-KC-A7FE-01A-12R-A33R-07", 
+          "TCGA-KC-A7FE-01A-12D-A33U-05", 
+          "TCGA-KC-A7FE-01A-12R-A343-13", 
+          "TCGA-KC-A7FE-10A-01D-A33W-08", 
+          "TCGA-KC-A7FE-10A-01W-A453-08", 
+          "TCGA-KC-A7FE-01A-12D-A33T-08", 
+          "TCGA-KC-A7FE-01A-12W-A452-08"
+        ], 
+        "submitter_portion_ids": [
+          "TCGA-KC-A7FE-01A-21-A43L-20", 
+          "TCGA-KC-A7FE-01A-01", 
+          "TCGA-KC-A7FE-10A-01"
+        ], 
+        "submitter_analyte_ids": [
+          "TCGA-KC-A7FE-01A-12D", 
+          "TCGA-KC-A7FE-01A-12W", 
+          "TCGA-KC-A7FE-01A-12R", 
+          "TCGA-KC-A7FE-10A-01W", 
+          "TCGA-KC-A7FE-10A-01D"
+        ], 
+        "analyte_ids": [
+          "1a7ed1b6-5c1e-41f5-bd21-7c339f3e5062", 
+          "107217bf-dc4b-4732-965d-1be2bc2cb2b4", 
+          "7267eb2e-69ea-4ff0-a7a6-05b578229d82", 
+          "81560e93-9a68-415b-a237-9c888de0f9d5", 
+          "3232ebc2-801b-4782-af1f-cb8713de5c2f"
+        ], 
+        "submitter_id": "TCGA-KC-A7FE", 
+        "state": null, 
+        "case_id": "7c40c747-5000-4f66-aab5-c53fb96337cb", 
+        "slide_ids": [
+          "7333a063-1621-4757-989f-8abcfcb2c4db"
+        ], 
+        "submitter_sample_ids": [
+          "TCGA-KC-A7FE-01A", 
+          "TCGA-KC-A7FE-10A"
+        ], 
+        "aliquot_ids": [
+          "9eec79fd-cca8-4d92-bda0-c4d392cfa575", 
+          "96ffe9c3-7aa0-4b1a-8edb-1c7ab8dc192e", 
+          "74ead1bd-5f3f-4404-bcc8-899f3b7bafa3", 
+          "7f20ebf3-0c87-4ca0-8550-4a1c5779efea", 
+          "a314bf4e-d011-4fe6-a797-07cf882f8892", 
+          "55933c1a-eec4-4d23-83d5-21963dc0fe3c", 
+          "3225711c-99a1-472e-8ac4-aa33161b1603", 
+          "17607f39-23c6-4eee-8aa4-ed705284ff4e", 
+          "d917fdbc-60b4-4913-8359-0ed1fce972f3"
+        ]
+      }
+    ], 
+    "pagination": {
+      "count": 1, 
+      "sort": "", 
+      "from": 1, 
+      "pages": 1, 
+      "total": 1, 
+      "page": 1, 
+      "size": 10
+    }
+  }, 
+  "warnings": {}
+}
